@@ -1,0 +1,3 @@
+Adresse IP : 172.168.49.3, Masque : 255.255.0.0, Classe : B
+Adresse IP : 27.10.187.3, Masque : 255.0.0.0, Classe : A
+Adresse IP : 172.188.10.1, Masque : 255.255.0.0, Classe : B, Adresse réseau : 172.188.0.0, Adresse de diffusion : 172.188.255.255
